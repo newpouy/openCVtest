@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/newpouy/Documents/devStudy/openCV/openCVSamplefacedetection/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="831aebd75a8aa1fcab66eb612a20317d867870cc">
+        <dex dex="/Users/newpouy/Documents/devStudy/openCV/openCVSamplefacedetection/build/intermediates/pre-dexed/debug/instant-run-bootstrap_6ce0bba44686d42b038e546da492f0a35eeaa2ce.jar" />
+    </item>
+    <item
+        jar="/Users/newpouy/Documents/devStudy/openCV/openCVSamplefacedetection/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f584334224810a28da555a1719116b2515dfe544">
+        <dex dex="/Users/newpouy/Documents/devStudy/openCV/openCVSamplefacedetection/build/intermediates/pre-dexed/debug/instant-run_1d7cad075096e79fefe3941c0c0f55f7529b2d6e.jar" />
+    </item>
+
+</items>
